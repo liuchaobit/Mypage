@@ -1,0 +1,295 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>指个东西</title><style type="text/css"><!-- body { font:normal 14px Tahoma, Simsun; margin:0; padding:25px 0 0; vertical-align:baseline; background:#fff; } h1 { font:bold 26px "微软雅黑", tahoma; margin:0 0 10px; } a { color:#0d63e3; } a:hover { color:#f54; } .header, .links, .footer { width:700px; margin:15px auto; padding:2px; text-align:center; } .search { width:700px; margin:15px auto; padding:8px 4px; text-align:center; background:#f8f8f8; border:2px solid #f2f2f2; } .search form { width:485px; margin:0 auto; } .i { font-size:16px; font-family:Tahoma; width:360px; height:24px; line-height:24px; padding:3px 6px; margin-right:2px; background:#fff url(img/search_bg.png) no-repeat; border:1px solid #b6b6b6; border-color:#7b7b7b #b6b6b6 #b6b6b6 #7b7b7b; display:inline-block; } .btn_wr { width:97px; height:34px; vertical-align:top; _padding-top:1px; background:url(img/search_bg.png) no-repeat -202px bottom; display:inline-block; } .btn { font:normal 14px Tahoma; width:95px; height:32px; padding:0; background:#ddd url(img/search_bg.png) no-repeat 0 -35px; cursor:pointer; border:0; } .btn_h { background-position:-100px -35px; } .description { font-size:12px; color:#888; margin:0; } .hide { display:none; } .linkad { width:712px; margin:10px auto; } .sites { width:700px; margin:15px auto; padding:4px; background:#fff; border:2px solid #f2f2f2; } .sites dl { height:36px; line-height:36px; margin:0; display:block; } .sites dl.alt { background:#f8f8f8; border-top:1px solid #f2f2f2; border-bottom:1px solid #f2f2f2; } .sites dt, .sites dd { text-align:center; display:block; float:left; } .sites dt { width:60px; } .sites dd { width:90px; margin:0; } .footer { font-size:11px; color:#888; margin:15px auto; } .center { text-align:center; font-weight:bold; } .center a { color:#ff3300; } --></style>
+<link rel="shortcut icon" href="http://www.liuchaos.cn/Favicon.ico">
+</head>
+<body>
+<div class="header">
+<h1>指个东西</h1>  <!-- 大标题 -->
+</div>
+
+
+<div class="header"> 
+<iframe width="480" scrolling="no" height="20" frameborder="0" allowtransparency="true" src="http://i.tianqi.com/index.php?c=code&id=1&icon=1&wind=1&num=2&site=12"></iframe>
+<font size="3" face="微软雅黑"  >
+</br>
+</br>
+<b>
+<a href="https://wx.qq.com/" target="_blank">微信</a>&nbsp&nbsp&nbsp
+<a href="http://mail.sina.com" target="_blank">邮箱</a>&nbsp&nbsp&nbsp
+<a href="http://www.liuchaos.cn" target="_blank">主页</a>&nbsp&nbsp&nbsp
+<a href="http://www.liuchaos.cn/Mycourse/" target="_blank">课程</a>&nbsp&nbsp&nbsp
+<a href="http://www.liuchaos.cn/Mypage/latex.html" target="_blank">Latex</a>&nbsp
+</b>
+</font>
+</div> <!-- body    天气显示条     -->
+
+
+<!-- 测试多搜索 -->
+<div class="header"> 
+<div style="background:#f8f8f8;height:50px;">
+<br />
+<form name="searchform" onSubmit="return dosearch();" >
+
+<input name="ie" type="hidden"  value="UTF-8">
+<input type="text" name="searchterms" class="i">
+
+<select name="sengines" >
+<option value="http://www.baidu.com/s?wd=" selected>百度</option>
+<option value="http://www.google.com/search?q=">谷歌</option>
+<option value="http://xueshu.baidu.com/s?wd=">百度学术</option>
+<option value="https://scholar.google.com/scholar?q=">谷歌学术</option>
+<option value="http://s.weibo.com/weibo/">微博搜索</option>
+<option value="http://www.letpub.com.cn/?page=grant&name=">自科基金</option>
+<option value="http://www2.soopat.com/Home/Result?SearchWord=">专利搜索</option>
+<option value="https://www.zhihu.com/search?type=content&q=">知乎</option>
+<option value="https://search.smzdm.com/?c=home&s=">值得买</option>
+</select>
+
+
+<input type="submit" class="btn" name="SearchSubmit" value="搜索">
+
+
+</form>
+
+<script type="text/javascript">
+function dosearch() {
+var sf=document.searchform;
+var submitto = sf.sengines.options[sf.sengines.selectedIndex].value + encodeURI(sf.searchterms.value)+"&ie=utf-8" ;<!-- 注意encodeURI不用escape是因为中文可能变乱码 -->
+window.open(submitto);  <!-- 新窗口打开  window.location.href = submitto；原窗口打开 -->
+return false;
+}
+</script>
+<br />
+</div>
+</div>
+
+<!--   20170903 end -->
+
+<br /> <!-- 空一行-->
+<div class="sites">  <!-- 网址超链接开始-->
+
+
+
+<dl>  
+<dt><b>学 术</b></dt>
+<dd><a href="http://xueshu.baidu.com/" target="_blank">百度学术</a></dd>
+<dd><a href="http://scholar.google.com" target="_blank">谷歌学术</a></dd>
+<dd><a href="http://gen.lib.rus.ec/" target="_blank">Lib-Gen</a></dd>
+<dd><a href="http://www.researchgate.net" target="_blank">Researchgate</a></dd>
+<dd><a href="http://www.xuebalib.com" target="_blank">学霸图书馆</a></dd>
+<dd><a href="https://www.zotero.org/" target="_blank">Zotero</a></dd>
+<dd><a href="http://www.tech110.net/" target="_blank">科技成果</a></dd>
+
+</dl>
+<dl>  <!--     补学术    -->
+<dt>&nbsp;&nbsp;&nbsp;</dt>
+<dd><a href="https://www.overleaf.com/" target="_blank">Overleaf</a></dd>
+<dd><a href="http://80.82.77.83/" target="_blank">SCI-HUB</a></dd>
+<dd><a href="http://corejournal.lib.sjtu.edu.cn" target="_blank">期刊查询</a></dd>
+<dd><a href="http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml" target="_blank">专利搜索</a></dd>
+
+
+</dl>
+
+<dl class="alt">
+<dt><b>实 用</b></dt>
+<dd><a href="http://mail.sina.com" target="_blank">新浪邮箱</a></dd>
+<dd><a href="https://www.yinxiang.com" target="_blank">印象笔记</a></dd>
+<dd><a href="https://www.dida365.com/" target="_blank">滴答清单</a></dd>
+<dd><a href="https://yun.baidu.com" target="_blank">百度云</a></dd>
+<dd><a href="https://www.jianguoyun.com/" target="_blank">坚果云</a></dd>
+<dd><a href="https://www.processon.com" target="_blank">ProcessOn</a></dd>
+<dd><a href="https://www.grammarly.com/" target="_blank">Grammarly</a></dd>
+</dl>
+
+
+
+<dl class="alt">  <!--     补实用    -->
+<dt>&nbsp;&nbsp;&nbsp;</dt>
+<dd><a href="https://www.simscale.com/" target="_blank">SimScale</a></dd>
+<dd><a href="https://www.zybuluo.com/" target="_blank">作业部落</a></dd>
+<dd><a href="http://www.drugfuture.com/cnpat/cn_patent.asp" target="_blank">专利下载</a></dd>
+<dd><a href="http://naotu.baidu.com/" target="_blank">百度脑图</a></dd>
+<dd><a href="https://www.bwh1.net/" target="_blank">搬瓦工</a></dd>
+<dd><a href="https://www.aliyun.com" target="_blank">阿里云</a></dd>
+<dd><a href="https://www.csdn.net" target="_blank">CSDN</a></dd>
+</dl>
+<dl class="alt">  <!--     补实用    -->
+<dt>&nbsp;&nbsp;&nbsp;</dt>
+<dd><a href="https://www.qiniu.com/" target="_blank">七牛云</a></dd>
+<dd><a href="https://github.com/liuchaobit" target="_blank">Github</a></dd>
+<dd><a href="https://www.wolframalpha.com/" target="_blank">Wolfram</a></dd> 
+<dd><a href="http://www.phrasebank.manchester.ac.uk/" target="_blank">Phrasebank</a></dd>
+</dl>
+
+<dl >
+<dt><b>购 物</b></dt>
+<dd><a href="https://www.taobao.com/" target="_blank">淘 宝</a></dd>
+<dd><a href="https://www.tmall.com/" target="_blank">天 猫</a></dd>
+<dd><a href="https://www.jd.com/" target="_blank">京 东</a></dd>
+<dd><a href="http://www.smzdm.com" target="_blank">值得买</a></dd>
+<dd><a href="http://www.zuanke8.com" target="_blank">赚客吧</a></dd>
+<dd><a href="http://kuaibao.sm.cn" target="_blank">神马快报</a></dd>
+<dd><a href="http://www.qiangqiang5.com" target="_blank">抢抢网</a></dd>
+
+</dl>
+
+<dl>  <!--     补购物    -->
+<dt>&nbsp;&nbsp;&nbsp;</dt>
+<dd><a href="http://www.dianping.com/" target="_blank">大众点评</a></dd>
+<dd><a href="http://www.fanli.com/" target="_blank">返利网</a></dd>
+<dd><a href="http://www.alimama.com" target="_blank">淘宝联盟</a></dd>
+</dl>
+
+
+
+
+
+
+
+<dl class="alt">
+<dt><b>影 音</b></dt>
+<dd><a href="https://www.bilibili.com/" target="_blank">哔哩哔哩</a></dd>
+<dd><a href="http://www.iqiyi.com/" target="_blank">爱奇艺</a></dd>
+<dd><a href="http://ifkdy.com/" target="_blank">影视搜索</a></dd>
+<dd><a href="http://www.youku.com" target="_blank">优 酷</a></dd>
+<dd><a href="http://www.xiami.com" target="_blank">虾米音乐</a></dd>
+<dd><a href="https://www.youtube.com" target="_blank">Youtube</a></dd>
+
+
+</dl>
+<!--  <dl class="alt">      补娱乐    
+<dt>&nbsp;&nbsp;&nbsp;</dt>  
+<dd><a href="https://wx.qq.com/" target="_blank">微 信</a></dd>
+
+
+</dl>    -->
+
+
+
+
+<dl>
+<dt><b>阅 读</b></dt>
+
+<dd><a href="http://www.duokan.com" target="_blank">多看阅读</a></dd>
+<dd><a href="http://www.hikindle.com/" target="_blank">HiKindle</a></dd>
+<dd><a href="http://www.kindlepush.com/main" target="_blank">Kindle推</a></dd>
+<dd><a href="http://www.dogear.cn" target="_blank">狗耳朵</a></dd>
+<dd><a href="http://www.sciencenet.cn/" target="_blank">科学网</a></dd>
+</dl>
+
+
+
+
+
+
+
+
+<dl class="alt">
+<dt><b>学 校</b></dt>
+<dd><a href="http://www.gzmu.edu.cn/" target="_blank">贵州民大</a></dd>
+<dd><a href="http://oa.gzmu.edu.cn/zfoa/index.do" target="_blank">办公系统</a></dd>
+<dd><a href="http://lxy.gzmu.edu.cn/" target="_blank">机电学院</a></dd>
+<dd><a href="http://rsc.gzmu.edu.cn/" target="_blank">人事处</a></dd>
+<dd><a href="http://kyc.gzmu.edu.cn" target="_blank">科研院</a></dd>
+<dd><a href="https://isisn.nsfc.gov.cn/egrantweb/" target="_blank">自科申报</a></dd>
+<dd><a href="http://xmgl.gzst.gov.cn/lib/login.html" target="_blank">项目管理I</a></dd>
+
+</dl>
+<dl class="alt">
+<dt><b>&nbsp;&nbsp;&nbsp;</b></dt>
+<dd><a href="http://ky.gzsedu.cn/Admin/Login?ReturnUrl=%2fAdmin" target="_blank">项目管理II</a></dd>
+
+</dl>
+
+
+<dl >  
+<dt><b>偶 像</b></dt>
+<dd><a href="http://rfly.buaa.edu.cn/index.html" target="_blank">BU-RFCG</a></dd>
+<dd><a href="http://kumar.grasp.upenn.edu/" target="_blank">GRASP</a></dd>
+<dd><a href="http://www2.seas.gwu.edu/~tylee/" target="_blank">Ty_Lee</a></dd>
+<dd><a href="https://www.cmu.edu/me/hdr/koushils.html" target="_blank">Sreenath</a></dd>
+<dd><a href="http://sarahtang.net/" target="_blank">SarahTang</a></dd>
+
+</dl>
+
+
+
+
+
+<dl class="alt">  
+<dt><b>社 区</b></dt>
+<dd><a href="https://www.zhihu.com/" target="_blank">知 乎</a></dd>
+<dd><a href="http://weibo.com/315647301" target="_blank">新浪微博</a></dd>
+<dd><a href="http://muchong.com/bbs/index.php" target="_blank">木虫论坛</a></dd>
+<dd><a href="http://out.bitunion.org/" target="_blank">北理联盟</a></dd>
+<dd><a href="http://www.dfrobot.com.cn/" target="_blank">DFrobot</a></dd>
+<dd><a href="http://tieba.baidu.com/f?fr=ala0&kw=%C2%BB%B7%E1" target="_blank">禄丰贴吧</a></dd>
+<dd><a href="http://www.facebook.com" target="_blank">Facebook</a></dd>
+</dl>
+
+<dl class="alt">
+<dt><b>&nbsp;&nbsp;&nbsp;</b></dt>
+<dd><a href="https://twitter.com/" target="_blank">Twitter</a></dd>
+<dd><a href="https://www.quora.com/" target="_blank">Quora</a></dd>
+<dd><a href="https://www.ilovematlab.cn" target="_blank">Matlab论坛</a></dd>
+
+</dl>
+
+
+
+</body>
+
+<dl >
+<dt><b>学 习</b></dt>
+<dd><a href="https://www.shanbay.com" target="_blank">扇贝</a></dd>
+<dd><a href="https://www.chinavoa.com/" target="_blank">VOA</a></dd>
+<dd><a href="https://www.coursera.org/" target="_blank">Coursera</a></dd>
+<dd><a href="http://www.simscale-academy.com" target="_blank">SimAca</a></dd>
+<dd><a href="http://www.w3school.com.cn/index.html" target="_blank">W3SCHOOL</a></dd>
+<dd><a href="http://www.runoob.com/python/python-tutorial.html" target="_blank">Python</a></dd>
+<dd><a href="http://docs.openmv.io/index.html" target="_blank">OpenMV</a></dd>
+</dl>
+
+<dl class="alt">
+<dt><b>银 行</b></dt>
+<dd><a href="https://www.sui.com" target="_blank">随手记</a></dd>
+<dd><a href="http://www.cmbchina.com/" target="_blank">招商银行</a></dd>
+<dd><a href="http://www.cgbchina.com.cn/" target="_blank">广发银行</a></dd>
+<dd><a href="http://www.cebbank.com/" target="_blank">光大银行</a></dd>
+<dd><a href="http://www.abchina.com/cn/" target="_blank">农业银行</a></dd>
+
+</dl>
+
+<dl>
+<dt><b>出 行</b></dt>
+<dd><a href="http://map.baidu.com/" target="_blank">百度地图</a></dd>
+<dd><a href="http://www.12306.cn" target="_blank">火车票</a></dd>
+<dd><a href="https://www.fliggy.com" target="_blank">飞 猪</a></dd>
+<dd><a href="http://www.mafengwo.cn/" target="_blank">蚂蜂窝</a></dd>
+
+</dl>
+
+<dl class="alt">
+<dt><b>写 作</b></dt>
+<dd><a href="http://www.diyifanwen.com/" target="_blank">第一范文</a></dd>
+<dd><a href="http://www.xiangdang.net/" target="_blank">香当网</a></dd>
+
+
+</dl>
+<!-- body   页脚    -->
+<div class="footer">
+
+<br/>
+<b>版本号：H20171227-01</b><br /> 
+&copy;2017刘小超 京ICP备17016452号<br /> 
+<a href="http://www.liuchaos.cn/wp-login.php" target="_blank">CV管理员登陆</a>
+
+<br /> 
+<a href="https://webftp.zzidc.com/" target="_blank">FTP登陆</a><br /> 
+<a href ="History.html" target="_blank">更新历史</a>
+</div>
+
+
+</html>

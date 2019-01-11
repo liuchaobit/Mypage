@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+<head>
+<title>Latex公式在线编辑器</title>
+
+<!-- Scripts needed by CodeCogs Equation Editor -->
+<link rel="stylesheet" type="text/css" href="http://www.liuchaos.cn/Mypage/js/equation-embed.css" />
+<script type="text/javascript" src="http://www.liuchaos.cn/Mypage/js/eq_config.js"></script>
+<script type="text/javascript" src="http://www.liuchaos.cn/Mypage/js/eq_editor-lite-19.js"></script>
+
+<style type="text/css">
+#EqnEditor { text-align:center; }
+</style>
+</head>
+
+<body>
+
+<center>
+<div id="editor"></div>
+<br />
+<textarea id="testbox" rows="8" cols="80"></textarea>
+<br />
+<img id="equation" />
+
+<script type="text/javascript">
+EqEditor.embed('editor','');
+var a=new EqTextArea('equation', 'testbox');
+EqEditor.add(a,false);
+</script>
+</center>
+</body>
+</html>
