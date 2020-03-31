@@ -1,7 +1,7 @@
 // Generally you should only need to change the host variable.
 {
-	var http = ('https:' == document.location.protocol ? 'https://' : 'http://');
-  	var host='www.liuchaos.cn/Mypage/';
+	var http = 'https://' ;
+  	var host='www.codecogs.com';
 	
 	EQUATION_ENGINE = http+host;
 	FAVORITE_ENGINE = http+host+'/json';
