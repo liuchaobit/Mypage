@@ -15,3 +15,6 @@
 [实验室研究与探索]（ http://sysy.cbpt.cnki.net/WKE/WebPublication/index.aspx?mid=SYSY ）  **核心**
 
 [实验技术与管理]（ http://syjl.cbpt.cnki.net/WKE/WebPublication/index.aspx?mid=SYJL ）  **核心**
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
