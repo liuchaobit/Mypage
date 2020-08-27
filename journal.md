@@ -1,3 +1,5 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
 # 学术期刊目录
 
 ---
@@ -17,4 +19,4 @@
 [实验技术与管理]（ http://syjl.cbpt.cnki.net/WKE/WebPublication/index.aspx?mid=SYJL ）  **核心**
 
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
