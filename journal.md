@@ -4,9 +4,9 @@
 
 ## 科研类期刊  
 
-[Computational and Applied Mathematics](https://www.springer.com/journal/40314/aims-and-scope)   **SCI**
+[Computational and Applied Mathematics]（https://www.springer.com/journal/40314/aims-and-scope）  **SCI**
 
-[Journal of Control Engineering and Applied Informatics](http://www.ceai.srait.ro/index.php?journal=ceai)  **SCI**
+[Journal of Control Engineering and Applied Informatics]（http://www.ceai.srait.ro/index.php?journal=ceai）  **SCI**
 
 ---
 
