@@ -10,6 +10,8 @@
 
 [Journal of Control Engineering and Applied Informatics]（ http://www.ceai.srait.ro/index.php?journal=ceai ）  **SCI**
 
+[Journal of Applied Mathematics and Computing]（ https://www.springer.com/journal/12190 ）  **SCI**
+
 ---
 
 ## 教学类期刊
