@@ -12,6 +12,12 @@
 
 [Journal of Applied Mathematics and Computing]（ https://www.springer.com/journal/12190 ）  **SCI**
 
+[Journal of Algorithms & Computational Technology]（ http://in.sagepub.com/en-in/sas/journal-of-algorithms-computational-technology/journal202503 ）  **EI**
+
+[Journal of Control Engineering and Applied Informatics]（ http://www.ceai.srait.ro/index.php?journal=ceai ）  **SCI**
+
+
+
 ---
 
 ## 教学类期刊
