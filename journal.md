@@ -14,7 +14,7 @@
 
 [Journal of Algorithms & Computational Technology]（ http://in.sagepub.com/en-in/sas/journal-of-algorithms-computational-technology/journal202503 ）  **EI**
 
-[Journal of Control Engineering and Applied Informatics]（ http://www.ceai.srait.ro/index.php?journal=ceai ）  **SCI**
+[Journal of Control Engineering and Applied Informatics]( http://www.ceai.srait.ro/index.php?journal=ceai )  **SCI**
 
 
 
