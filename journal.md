@@ -16,7 +16,7 @@
 
 [Journal of Control Engineering and Applied Informatics]( http://www.ceai.srait.ro/index.php?journal=ceai )  **SCI**
 
-
+[INTERNATIONAL JOURNAL OF CONTROL, AUTOMATION AND SYSTEMS]( http://www.ijcas.com/ )  **SCI**
 
 ---
 
