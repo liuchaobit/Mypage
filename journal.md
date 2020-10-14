@@ -28,6 +28,10 @@
 
 [International Journal of Automation Technology](https://www.fujipress.jp/ijat/au/)  **EI**
 
+[Automatic Control and Computer Sciences](https://www.springer.com/journal/11950)  **EI**
+
+
+
 ---
 
 ## 教学类期刊
