@@ -18,6 +18,10 @@
 
 [INTERNATIONAL JOURNAL OF CONTROL, AUTOMATION AND SYSTEMS]( http://www.ijcas.com/ )  **SCI**
 
+[IEEE Control Systems Letters]( https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782633 )  **EI**
+
+
+
 ---
 
 ## 教学类期刊
