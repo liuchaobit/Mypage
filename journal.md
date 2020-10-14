@@ -24,6 +24,10 @@
 
 [International Journal of Automation and Computing]( https://www.springer.com/journal/11633 )  **EI**
 
+[International Journal of Automation and Control]( https://www.inderscience.com/jhome.php?jcode=IJAAC )  **EI**
+
+[International Journal of Automation Technology](https://www.fujipress.jp/ijat/au/)  **EI**
+
 ---
 
 ## 教学类期刊
