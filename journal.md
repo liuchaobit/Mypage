@@ -20,7 +20,9 @@
 
 [IEEE Control Systems Letters]( https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782633 )  **EI**
 
+[IEEE Robotics and Automation Letters]( https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369 )  **EI**
 
+[International Journal of Automation and Computing]( https://www.springer.com/journal/11633 )  **EI**
 
 ---
 
