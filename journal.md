@@ -4,6 +4,11 @@
 
 ---
 
+## 小工具
+
+[选刊](https://www.topeditsci.com/) 
+
+
 ## 科研类期刊  
 
 [Computational and Applied Mathematics]( https://www.springer.com/journal/40314/aims-and-scope )  **SCI**
