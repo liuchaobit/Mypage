@@ -32,6 +32,8 @@
 
 [International Journal of Micro Air Vehicles](https://journals.sagepub.com/metrics/mav)  **EI**
 
+[International Journal of Vehicle Autonomous Systems](https://www.inderscience.com/jhome.php?jcode=ijvas#edboard-content)  **EI**
+
 ---
 
 ## 教学类期刊
