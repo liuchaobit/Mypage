@@ -49,6 +49,8 @@
 
 [实验技术与管理](  http://syjl.cbpt.cnki.net/WKE/WebPublication/index.aspx?mid=SYJL )  **核心**
 
+[ International Journal of Electrical Engineering & Education](  https://journals.sagepub.com/author-instructions/IJE )  **SCI**
+
 
 
 
