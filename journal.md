@@ -51,6 +51,121 @@
 
 [ International Journal of Electrical Engineering & Education](  https://journals.sagepub.com/author-instructions/IJE )  **SCI**
 
+---
+
+## 待选期刊
+
+Acta astronautica 
+
+Advanced robotics
+
+Advances in astronautical sciences 
+
+Aeronautical Journal 
+
+Aerospace science and technology (Imprimé)
+
+AIAA Journal
+
+Air Force Magazine
+
+Aircraft Engineering
+
+Aircraft engineering and aerospace technology 
+
+Automation and Remote Control 
+
+Aviation
+
+Canadian aeronautics and space journal
+
+Chinese Journal of Aeronautics 
+
+Composites. Part B, Engineering 
+
+Engineered Systems
+
+European journal of control
+
+Expert systems with applications
+
+IEEE Aerospace and Electronic Systems Magazine 
+
+IEEE Control Systems 
+
+IEEE Robotics & Automation Magazine 
+
+IEEE Transactions on Aerospace and Electronic Systems
+
+IEEE Transactions on Automatic Control
+
+IEEE Transactions on Automation Science and Engineering 
+
+IEEE Transactions on Control Systems Technology 
+
+IEEE Transactions on Industrial Electronics 
+
+IEEE Transactions on Instrumentation and Measurement 
+
+International Journal of Aeroacoustics 
+
+International Journal of Automotive Technology 
+
+International journal of electric and hybrid vehicles 
+
+International Journal of Systems Science
+
+International journal of vehicle autonomous systems 
+
+International journal of vehicle design 
+
+ISA transactions
+
+Journal of Aerospace Computing, Information, and Communication 
+
+Journal of Aerospace Engineering 
+
+Journal of Aircraft 
+
+Journal of applied mathematics and mechanics 
+
+Journal of automation and information sciences
+
+Journal of Dynamical and Control Systems 
+
+Journal of Fire Protection Engineering
+
+Journal of Guidance, Control, and Dynamics
+
+Journal of process control 
+
+Journal of the Franklin Institute
+
+Journal of the Institution of Engineers (India). Aerospace Engineering Division
+
+Mathematics of Control, Signals, and Systems
+
+Mechanical systems and signal processing 
+
+Proceedings of the Institution of Mechanical Engineers. Part I, Journal of Systems and Control Engineering
+
+Proceedings of the Institution of Mechanical Engineers. Part K, Journal of Multi-body Dynamics
+
+Progress in Aerospace Sciences 
+
+SAE international journal of aerospace 
+
+SAE International journal of commercial vehicles
+
+The Journal of the Astronautical Sciences
+
+TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES
+
+Vehicle System Dynamics 
+
+![image](https://user-images.githubusercontent.com/22042862/115671581-404d9d80-a37d-11eb-853f-2e1cb2982fa3.png)
+
+
 
 
 
