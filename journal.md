@@ -163,7 +163,7 @@ TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES
 
 Vehicle System Dynamics 
 
-![image](https://user-images.githubusercontent.com/22042862/115671581-404d9d80-a37d-11eb-853f-2e1cb2982fa3.png)
+
 
 
 
