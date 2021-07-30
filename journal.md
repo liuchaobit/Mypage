@@ -51,6 +51,12 @@
 
 [ International Journal of Electrical Engineering & Education](  https://journals.sagepub.com/author-instructions/IJE )  **SCI**
 
+[ International Journal of Continuing Engineering Education and Life-Long Learning](  https://www.inderscience.com/jhome.php?jcode=ijceell )  **EI**
+
+[International Journal of Learning Technology](  https://www.inderscience.com/jhome.php?jcode=ijlt )  **ESCI**
+
+
+
 ---
 
 ## 待选期刊
