@@ -39,6 +39,8 @@
 
 [International Journal of Vehicle Autonomous Systems](https://www.inderscience.com/jhome.php?jcode=ijvas#edboard-content)  **EI**
 
+[International Journal of Mechatronics and Manufacturing Systems](https://www.inderscience.com/jhome.php?jcode=ijmms)  **EI**
+
 [Journal of Intelligent & Robotic Systems](https://www.springer.com/journal/10846?IFA)  **SCI**
 
 ---
