@@ -172,6 +172,27 @@ TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES
 Vehicle System Dynamics 
 
 
+---
+
+## inderscience EI
+
+International Journal of Automation and Control
+
+International Journal of Dynamical Systems and Differential Equations
+
+International Journal of Engineering Systems Modelling and simulation
+
+International Journal of Intelligent Systems Technologies and Applications
+
+International Journal of Modelling, Identification and Control
+
+International Journal of simulation and Process Modelling
+
+International ,Journal of Vehi cle Autonomous Systems
+
+
+
+
 
 
 
