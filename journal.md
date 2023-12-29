@@ -6,7 +6,7 @@
 
 ## 小工具
 
-[选刊](https://www.topeditsci.com/) 
+[选刊](https://journalsearches.com/free-publishing-journals.php) 
 
 
 ## 科研类期刊  
