@@ -17,3 +17,5 @@
 [HappyAPI](https://ngedlktfticp.cloud.sealos.io/)
 
 [Academic](http://47.120.73.161:22303/)
+
+[Share](https://shared.oaifree.com/?temporary-chat=true))
