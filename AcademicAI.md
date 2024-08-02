@@ -9,6 +9,8 @@
 
 [Consensus](https://consensus.app/search/)
 
+[Search](https://searchgptool.ai/)
+
 ---
 **翻译改写**
 
