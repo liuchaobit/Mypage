@@ -1,0 +1,113 @@
+/* 重置默认样式 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 基础样式 */
+body {
+  font-family: '微软雅黑', Tahoma, sans-serif;
+  font-size: 14px;
+  background-color: #fff;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* 页头样式 */
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.nav-links {
+  margin-top: 10px;
+}
+
+.nav-links a {
+  color: #0d63e3;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.nav-links a:hover {
+  color: #f54;
+}
+
+/* 搜索栏样式 */
+.search-container {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border: 2px solid #f2f2f2;
+}
+
+.search-input {
+  width: 300px;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+  font-size: 14px;
+}
+
+.search-select {
+  height: 40px;
+  padding: 5px;
+  font-size: 14px;
+}
+
+.search-button {
+  height: 40px;
+  padding: 5px 10px;
+  background-color: #ddd;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.search-button:hover {
+  background-color: #bbb;
+}
+
+/* 链接部分样式 */
+.sites {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 10px;
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 20px;
+  border: 2px solid #f2f2f2;
+}
+
+.sites dl {
+  text-align: center;
+}
+
+.sites dt {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.sites dd a {
+  text-decoration: none;
+  color: #0d63e3;
+}
+
+.sites dd a:hover {
+  color: #f54;
+}
