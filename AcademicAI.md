@@ -20,7 +20,7 @@
 
 [Academic](http://47.120.73.161:22303/)
 
-[Share](https://shared.oaifree.com/?temporary-chat=true))
+[Share](https://chat.mynanian.top/list)
 
 ---
 **图形绘制**
