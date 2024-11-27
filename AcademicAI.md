@@ -16,7 +16,7 @@
 
 [ChatGPT](https://chatgpt.com/?oai-dm=1)
 
-[HappyAPI](https://ngedlktfticp.cloud.sealos.io/)
+[HappyAPI](https://happyapi.org)
 
 [Academic](http://47.120.73.161:22303/)
 
