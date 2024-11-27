@@ -190,6 +190,16 @@ International Journal of simulation and Process Modelling
 
 International ,Journal of Vehi cle Autonomous Systems
 
+---
+
+## Robotic
+
+[International Journal of Intelligent Robotics and Applications](https://link.springer.com/journal/41315)
+
+International Journal of  Robotics and Automation
+
+Journal of Intelligent & Robotic Systems 
+
 
 
 
