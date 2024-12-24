@@ -22,6 +22,8 @@
 
 [Share](https://chat.mynanian.top/list)
 
+[智谱清言](https://chatglm.cn/)
+
 ---
 **图形绘制**
 
